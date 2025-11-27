@@ -3,7 +3,7 @@
 
 # Summary
 
-Applied machine learning researcher in the federal contracting industry. Part-time M.S. student studying statistics. Interested in machine learning on graph-structured data and time series.
+Applied machine learning researcher in the federal contracting industry. Part-time master's student studying Statistics. Interested in machine learning on graph-structured data and time series.
 
 # Education
 
@@ -15,7 +15,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ### Conference
  - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In The Fourth Learning on Graphs Conference (LOG), 2025. [Link](https://openreview.net/forum?id=T1vdfm1THf)
- - William Arliss, Andrew B. Godbehere, and Graham Mueller. Using hypervectors for efficient anomaly detection in graph streams. In 2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA), 2024. [Link](https://ieeexplore.ieee.org/document/10722819)
+ - William Arliss, Andrew B. Godbehere, and Graham Mueller. Using hypervectors for efficient anomaly detection in graph streams. In 2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA), 2024. [[Link]](https://ieeexplore.ieee.org/document/10722819)
 
 ### Workshop
  - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI), 2025. [Link](https://openreview.net/forum?id=5ehtJ1wkZa)
