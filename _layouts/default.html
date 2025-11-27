@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <!-- Use the site's assets/main.css to keep Minima styling when available -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {{ content_for_header }}
+  </head>
+  <body>
+    {% include header.html %}
+
+    <main class="site-main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.author | default: site.title }}</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }}</title>
+		{% if site.stylesheet %}
+			<link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
+		{% else %}
+			<!-- You can add your own stylesheet at /assets/main.css -->
+			<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+		{% endif %}
+	</head>
+	<body>
+		<header>
+			<h1><a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.username }}</a></h1>
+			{% if site.description %}
+				<p>{{ site.description }}</p>
+			{% endif %}
+			<!-- GitHub link intentionally omitted to avoid 'View my GitHub' -->
+		</header>
+
+		<main>
+			{{ content }}
+		</main>
+
+		<footer>
+			<p>&copy; {{ site.time | date: "%Y" }} {{ site.author | default: site.github.username }}</p>
+		</footer>
+	</body>
+</html>
+
