@@ -1,0 +1,17 @@
+<header class="site-header" role="banner">
+  <div class="wrap">
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title | default: site.github.username }}</a>
+    </h1>
+
+    {% if site.description %}
+      <p class="site-description">{{ site.description }}</p>
+    {% endif %}
+
+    <!--
+      Minima normally adds a GitHub/Repo link here. This override keeps the
+      same structure/classes so the theme styling remains, but deliberately
+      omits the GitHub link.
+    -->
+  </div>
+</header>
