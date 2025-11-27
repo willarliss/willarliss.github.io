@@ -23,11 +23,7 @@ University of Vermont, Economics, B.A., 2016-2020
 
 # Links
 
-[LinkedIn](https://www.linkedin.com/in/william-arliss/)
+[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao)| [Website](https://willarliss.github.io/)
 
-[GitHub](https://github.com/willarliss)
-
-[Website](https://willarliss.github.io/)
-
-[warliss@gwu.edu](mailto:warliss@gwu.edu)
+Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
 
