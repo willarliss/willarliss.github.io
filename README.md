@@ -1,15 +1,15 @@
 
----
 
-## Summary
+
+# Summary
 
 Applied machine learning researcher in the federal contracting industry. Part-time M.S. student studying statistics. Interested in machine learning on graph-structured data and time series.
 
 # Education
 
- - George Washington University, Statistics, M.S., 2024-2025 (in progress)
- - George Washington University, Applied Economics, M.S., 2022-2023
- - University of Vermont, Economics, B.A., 2016-2020
+- George Washington University, Statistics, M.S., 2024-2025 (in progress)
+- George Washington University, Applied Economics, M.S., 2022-2023
+- University of Vermont, Economics, B.A., 2016-2020
 
 # Papers
 
