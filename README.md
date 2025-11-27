@@ -1,6 +1,6 @@
 # Summary
 
-Applied machine learning researcher in the federal contracting industry. Part-time M.S. student studying statistics. Interested in machine learning on graph-structured data and time series. 
+Applied machine learning researcher in the federal contracting industry. Part-time M.S. student studying statistics. Interested in machine learning on graph-structured data and time series.
 
 # Education
 
@@ -20,3 +20,7 @@ University of Vermont, Economics, B.A., 2016-2020
  - William Arliss. Improving email filtering systems: A graph neural network approach. In The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber), 2023.
 ### Journal
  - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. Descriptor: Firewall attack detections and extractions (fade). In IEEE Data Descriptions, 2025.
+
+# Links
+
+
