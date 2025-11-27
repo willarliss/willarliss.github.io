@@ -1,3 +1,7 @@
+---
+title: "Title Strip Test Post"
+---
+
 ## Summary
 
 Applied machine learning researcher in the federal contracting industry. Part-time M.S. student studying statistics. Interested in machine learning on graph-structured data and time series.
