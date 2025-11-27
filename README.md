@@ -15,15 +15,16 @@ University of Vermont, Economics, B.A., 2016-2020
 ### Conference
  - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In The Fourth Learning on Graphs Conference (LOG), 2025.
  - William Arliss, Andrew B. Godbehere, and Graham Mueller. Using hypervectors for efficient anomaly detection in graph streams. In 2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA), 2024.
+
 ### Workshop
  - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI), 2025.
  - William Arliss. Improving email filtering systems: A graph neural network approach. In The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber), 2023.
+
 ### Journal
  - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. Descriptor: Firewall attack detections and extractions (fade). In IEEE Data Descriptions, 2025.
 
 # Links
 
-[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao)| [Website](https://willarliss.github.io/)
-
 Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
 
+[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
