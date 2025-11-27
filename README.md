@@ -1,5 +1,4 @@
----
-title: "Title Strip Test Post"
+#
 ---
 
 ## Summary
