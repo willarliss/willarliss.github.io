@@ -28,27 +28,27 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ### Recursive Iteratively Reweighted Least Squares
 
-[[Link]](https://github.com/willarliss/RIRLS)
+Recursive iteratively reweighted least squares description. [[Link]](https://github.com/willarliss/RIRLS)
 
 ### Filtering GAM
 
-[[Link]](https://github.com/willarliss/F-GAM)
+Generalized additive model for time series filtering description. [[Link]](https://github.com/willarliss/F-GAM)
 
 ### General Loss Framework
 
-[[Link]](https://github.com/willarliss/GeneralLoss)
+Scikit-learn compativle framework for general loss functions description. [[Link]](https://github.com/willarliss/GeneralLoss)
 
 ### Stock Trading RL Agent
 
-[[Link]](https://github.com/willarliss/Trade-Bot-2)
+Stock trading reinforcement learning agent description. [[Link]](https://github.com/willarliss/Trade-Bot-2)
 
 ### Markov Decision Process Tic-Tac-Toe
 
-[[Link]](https://github.com/willarliss/TicTacToe-Learning)
+Markov decision process tic-tac-toe learning agent. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
 
 ---
 
-## Links
+# Links
 
 Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
 
