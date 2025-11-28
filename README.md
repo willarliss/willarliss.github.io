@@ -24,27 +24,34 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 ### Journal
  - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. Descriptor: Firewall attack detections and extractions (fade). In IEEE Data Descriptions, 2025. [[Link]](https://ieeexplore.ieee.org/document/11011666)
 
-# Links
-
-Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
-
-[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
-
 ---
 
 # Personal Projects
 
 ### Recursive Iteratively Reweighted Least Squares
+
 [[Link]](https://github.com/willarliss/RIRLS)
 
 ### Filtering GAM
+
 [[Link]](https://github.com/willarliss/F-GAM)
 
 ### General Loss Framework
+
 [[Link]](https://github.com/willarliss/GeneralLoss)
 
 ### Stock Trading RL Agent
+
 [[Link]](https://github.com/willarliss/Trade-Bot-2)
 
 ### Markov Decision Process Tic-Tac-Toe
+
 [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+
+---
+
+# Links
+
+Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
+
+[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
