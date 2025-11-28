@@ -24,8 +24,6 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 ### Journal
  - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. Descriptor: Firewall attack detections and extractions (fade). In IEEE Data Descriptions, 2025. [[Link]](https://ieeexplore.ieee.org/document/11011666)
 
----
-
 # Personal Projects
 
 ### Recursive Iteratively Reweighted Least Squares
@@ -50,7 +48,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ---
 
-# Links
+## Links
 
 Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
 
