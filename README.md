@@ -26,6 +26,12 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 # Personal Projects
 
+<!---
+### Reinforcement Learning Modularity Optimization
+
+Reinforcement learning environment for maximizing graph modularity for the task of communty detection. [[Link]]()
+--->
+
 ### Recursive Iteratively Reweighted Least Squares
 
 An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS)
