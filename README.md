@@ -38,7 +38,7 @@ An algorithm to recursively estimate (multinomial) logistic regression coefficie
 
 ### General Loss Framework
 
-A package that supports experimentation with custom loss functions and scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
+A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
 
 ### Stock Trading RL Agent
 
@@ -46,7 +46,7 @@ A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN
 
 ### Markov Decision Process Tic-Tac-Toe
 
-A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a simple Markov decision process. An agent interacts with the board and maintains a dictionary of board states, actions, and outcomes. Through self-play, the agent learns to select optimal actions to win the game. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
 
 ### Markov Chain Text Generator
 
