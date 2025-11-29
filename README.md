@@ -28,23 +28,33 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ### Recursive Iteratively Reweighted Least Squares
 
-Recursive iteratively reweighted least squares description. [[Link]](https://github.com/willarliss/RIRLS)
+An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS)
 
+### General Loss Framework
+
+A package that supports experimentation with custom loss functions and scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
+
+### Stock Trading RL Agent
+
+A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot)
+
+### Markov Decision Process Tic-Tac-Toe
+
+A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a simple Markov decision process. An agent interacts with the board and maintains a dictionary of board states, actions, and outcomes. Through self-play, the agent learns to select optimal actions to win the game. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+
+### Markov Chain Text Generator
+
+An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Functionality for document generation, classification, and clustering is explored. [[Link]](https://github.com/willarliss/MC-Generate)
+
+<!-- 
 ### Filtering GAM
 
 Generalized additive model for time series filtering description. [[Link]](https://github.com/willarliss/F-GAM)
 
-### General Loss Framework
+### Anchoring Vector Machine
 
-Scikit-learn compativle framework for general loss functions description. [[Link]](https://github.com/willarliss/GeneralLoss)
-
-### Stock Trading RL Agent
-
-Stock trading reinforcement learning agent description. [[Link]](https://github.com/willarliss/Trade-Bot-2)
-
-### Markov Decision Process Tic-Tac-Toe
-
-Markov decision process tic-tac-toe learning agent. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+Anchoring vector machine for classification. [[Link]](https://github.com/willarliss?tab=repositories)
+-->
 
 ---
 
