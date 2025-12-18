@@ -38,13 +38,13 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 <ul> A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. <a href="https://github.com/willarliss/Trade-Bot" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 
-### Markov Chain Text Generator
-
-<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
-
 ### General Loss Framework
 
 <ul> A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. <a href="https://github.com/willarliss/GeneralLoss" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
+
+### Markov Chain Text Generator
+
+<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 
 <!-- 
 ### Markov Decision Process Tic-Tac-Toe
