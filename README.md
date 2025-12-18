@@ -30,34 +30,34 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 <ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. [[Link]](https://github.com/willarliss/RL-Community-Detection) </ul>
 
+<a href="https://github.com/willarliss/RL-Community-Detection" target="_blank" rel="noopener noreferrer">LINK</a>
+
+
 ### Recursive Iteratively Reweighted Least Squares
 
-An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS)
+<ul> An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS) </ul>
 
 ### General Loss Framework
 
-A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
+<ul> A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss) </ul>
 
 ### Stock Trading RL Agent
 
-A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot)
+<ul> A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot) </ul>
 
 ### Markov Decision Process Tic-Tac-Toe
 
-A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+<ul> A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning) </ul>
 
 ### Markov Chain Text Generator
 
-An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Functionality for document generation, classification, and clustering is explored. [[Link]](https://github.com/willarliss/MC-Generate)
+<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Functionality for document generation, classification, and clustering is explored. [[Link]](https://github.com/willarliss/MC-Generate) </ul>
 
 <!-- 
 ### Filtering GAM
-
-Generalized additive model for time series filtering description. [[Link]](https://github.com/willarliss/F-GAM)
-
+<ul> Generalized additive model for time series filtering description. [[Link]](https://github.com/willarliss/F-GAM) </ul>
 ### Anchoring Vector Machine
-
-Anchoring vector machine for classification. [[Link]](https://github.com/willarliss?tab=repositories)
+<ul> Anchoring vector machine for classification. [[Link]](https://github.com/willarliss?tab=repositories) </ul>
 -->
 
 ---
