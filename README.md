@@ -18,7 +18,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
  - William Arliss, Andrew B. Godbehere, and Graham Mueller. Using hypervectors for efficient anomaly detection in graph streams. In 2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA), 2024. <a href="https://ieeexplore.ieee.org/document/10722819" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 ### Workshop
- - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI), 2025. [[Paper]](https://openreview.net/forum?id=5ehtJ1wkZa)
+ - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI), 2025. <a href="https://openreview.net/forum?id=5ehtJ1wkZa" target="_blank" rel="noopener noreferrer">[Paper]</a>
  - William Arliss. Improving email filtering systems: A graph neural network approach. In The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber), 2023. <a href="https://ai4cyber-kdd.com/KDD-AISec_files/ai4cyber-arliss-final.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 ### Journal
