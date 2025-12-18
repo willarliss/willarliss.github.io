@@ -28,27 +28,27 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ### Reinforcement Learning Modularity Optimization
 
-Reinforcement learning environment for maximizing graph modularity for the task of communty detection. [[Link]](https://github.com/willarliss/RL-Community-Detection)
+   Reinforcement learning environment for maximizing graph modularity for the task of communty detection. [[Link]](https://github.com/willarliss/RL-Community-Detection)
 
 ### Recursive Iteratively Reweighted Least Squares
 
-An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS)
+   An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. [[Link]](https://github.com/willarliss/RIRLS)
 
 ### General Loss Framework
 
-A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
+   A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss)
 
 ### Stock Trading RL Agent
 
-A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot)
+   A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot)
 
 ### Markov Decision Process Tic-Tac-Toe
 
-A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
+   A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning)
 
 ### Markov Chain Text Generator
 
-An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Functionality for document generation, classification, and clustering is explored. [[Link]](https://github.com/willarliss/MC-Generate)
+   An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Functionality for document generation, classification, and clustering is explored. [[Link]](https://github.com/willarliss/MC-Generate)
 
 <!-- 
 ### Filtering GAM
