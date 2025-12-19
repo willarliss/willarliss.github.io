@@ -59,6 +59,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 # Links
 
-Email: [warliss@gwu.edu](mailto:warliss@gwu.edu)
+<!-- Email: [warliss@gwu.edu](mailto:warliss@gwu.edu) -->
+Email: warliss[at]gwu.edu
 
 [LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
