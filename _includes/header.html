@@ -8,19 +8,7 @@
       <p class="site-description">{{ site.description }}</p>
     {% endif %}
 
-    <!-- divider before the photo and page intro -->
-    <hr style="margin:1rem 0;">
-
-    <!-- Row: photo on the left, header text/intro on the right -->
-    <div class="header-row" style="display:flex; align-items:flex-start; gap:1rem;">
-      <div class="header-photo" style="flex:0 0 120px; max-width:120px;">
-        <img src="{{ '/photo.png' | relative_url }}" alt="{{ site.title | default: site.github.username }} photo" style="width:96px;height:96px;border-radius:50%;display:block;">
-      </div>
-
-      <div class="header-intro" style="flex:1;">
-        <!-- keep the header-intro empty so the main page content sits naturally to the right of the photo -->
-      </div>
-    </div>
+    <!-- header ends here; the photo will be placed below the header so main content can flow to its right -->
 
     <!--
       Minima normally adds a GitHub/Repo link here. This override keeps the
@@ -29,3 +17,13 @@
     -->
   </div>
 </header>
+
+<!-- Photo placed below the header. It is floated left so the following
+     main content will flow to its right. Make sure `photo.png` is in a
+     served location (site root or assets) so it loads on the built site. -->
+<div style="clear:both; padding-top:0.5rem;">
+  <div style="float:left; width:120px; margin-right:1rem;">
+    <img src="{{ '/photo.png' | relative_url }}" alt="{{ site.title | default: site.github.username }} photo" style="width:96px;height:96px;border-radius:50%;display:block;">
+  </div>
+</div>
+
