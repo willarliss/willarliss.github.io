@@ -14,15 +14,15 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 # Papers
 
 ### Conference
- - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In The Fourth Learning on Graphs Conference (LOG), 2025. <a href="https://openreview.net/forum?id=T1vdfm1THf" target="_blank" rel="noopener noreferrer">[Paper]</a> <a href="https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s" target="_blank" rel="noopener noreferrer">[Presentation]</a>
- - William Arliss, Andrew B. Godbehere, and Graham Mueller. Using hypervectors for efficient anomaly detection in graph streams. In 2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA), 2024. <a href="https://ieeexplore.ieee.org/document/10722819" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *The Fourth Learning on Graphs Conference (LOG)*, 2025. <a href="https://openreview.net/forum?id=T1vdfm1THf" target="_blank" rel="noopener noreferrer">[Paper]</a> <a href="https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s" target="_blank" rel="noopener noreferrer">[Presentation]</a>
+ - William Arliss, Andrew B. Godbehere, and Graham Mueller. "Using hypervectors for efficient anomaly detection in graph streams." In *2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)*, 2024. <a href="https://ieeexplore.ieee.org/document/10722819" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 ### Workshop
- - William Arliss and W. Graham Mueller. Differentiable community detection with graph neural networks and stochastic block models. In Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI), 2025. <a href="https://openreview.net/forum?id=5ehtJ1wkZa" target="_blank" rel="noopener noreferrer">[Paper]</a>
- - William Arliss. Improving email filtering systems: A graph neural network approach. In The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber), 2023. <a href="https://ai4cyber-kdd.com/KDD-AISec_files/ai4cyber-arliss-final.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI)*, 2025. <a href="https://openreview.net/forum?id=5ehtJ1wkZa" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - William Arliss. "Improving email filtering systems: A graph neural network approach." In *The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber)*, 2023. <a href="https://ai4cyber-kdd.com/KDD-AISec_files/ai4cyber-arliss-final.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 ### Journal
- - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. Descriptor: Firewall attack detections and extractions (fade). In IEEE Data Descriptions, 2025. <a href="https://ieeexplore.ieee.org/document/11011666" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. "Descriptor: Firewall attack detections and extractions (fade)." In *IEEE Data Descriptions*, 2025. <a href="https://ieeexplore.ieee.org/document/11011666" target="_blank" rel="noopener noreferrer">[Paper]</a>
 
 # Personal Projects
 
@@ -45,7 +45,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 <ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 
-<!-- 
+<!--
 ### Markov Decision Process Tic-Tac-Toe
 <ul> A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. <a href="https://github.com/willarliss/TicTacToe-Learning" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 ### Filtering GAM
