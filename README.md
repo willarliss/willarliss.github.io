@@ -31,7 +31,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 ### Recursive Iteratively Reweighted Least Squares
 
-<ul> An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS converges to IRLS. <a href="https://github.com/willarliss/RIRLS" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
+<ul> An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS might converge to IRLS. <a href="https://github.com/willarliss/RIRLS" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 
 ### Stock Trading RL Agent
 
