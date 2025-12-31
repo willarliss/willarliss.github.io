@@ -3,3 +3,8 @@ title: "William Arliss"
 author: ""
 # theme: minima
 remote_theme: alshedivat/al-folio
+plugins:
+  - jekyll-scholar
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
