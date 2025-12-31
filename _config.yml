@@ -6,4 +6,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-content_width: 800px
+max_width: 800px
