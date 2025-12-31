@@ -1,7 +1,5 @@
 title: "William Arliss"
-# author: "William Arliss"
 author: ""
-# theme: minima
 remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-scholar
