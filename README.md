@@ -3,6 +3,8 @@
 
 # Summary
 
+<img src="/images/headshot.png" alt="Headshot" style="float:left; margin-right:1rem; width:150px;" />
+
 Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series.
 
 # Education
