@@ -13,6 +13,8 @@
 		</td>
 	</tr>
 </table>
+#table-clear
+<div style="clear:both;"></div>
 
 # Education
 
@@ -53,9 +55,9 @@
 
 ### Markov Chain Text Generator
 
-<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
+<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Link]</a> <br> <img src="/images/tempest.png" width="300"> </ul>
 
-<img src="/images/tempest.png" width="300">
+<ul>  </ul>
 
 <!--
 ### General Loss Framework
