@@ -5,7 +5,7 @@
 
 <table style="border:none; border-collapse:collapse; background:transparent;">
 	<tr>
-		<td style="padding-right:1rem; vertical-align:top; width:150px; border:none; background:transparent;">
+		<td style="padding-left:1rem; vertical-align:top; width:150px; border:none; background:transparent;">
 			<img src="/images/headshot.png" alt="Headshot" width="150" style="display:block; border:none;" />
 		</td>
 		<td style="vertical-align:top; border:none; background:transparent;">
@@ -13,12 +13,8 @@
 		</td>
 	</tr>
 </table>
-<!-- <div style="clear:both;"></div> -->
 
-<!-- <p>
-  <img src="/images/headshot.png" alt="Headshot" style="float:left; margin:0 1rem 0 0; width:150px; border:none; display:block;" >
-  Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series.
-</p> -->
+<!-- Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series. -->
 
 # Education
 
