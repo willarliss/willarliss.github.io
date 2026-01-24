@@ -3,12 +3,12 @@
 
 # Summary
 
-<table>
+<table style="border:none; border-collapse:collapse; background:transparent;">
 	<tr>
-		<td style="padding-right:1rem; vertical-align:top; width:150px;">
-			<img src="/images/headshot.png" alt="Headshot" width="150" />
+		<td style="padding-right:1rem; vertical-align:top; width:150px; border:none; background:transparent;">
+			<img src="/images/headshot.png" alt="Headshot" width="150" style="display:block; border:none;" />
 		</td>
-		<td style="vertical-align:top;">
+		<td style="vertical-align:top; border:none; background:transparent;">
 			Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series.
 		</td>
 	</tr>
@@ -38,9 +38,7 @@
 # Personal Projects
 
 ### IRLS Stochastic Block Model
-<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. <a href="https://github.com/willarliss/IRLS-SBM" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
-
-<img src="/images/sbm_animation.gif" width="600">
+<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. <a href="https://github.com/willarliss/IRLS-SBM" target="_blank" rel="noopener noreferrer">[Link]</a> <br> <img src="/images/sbm_animation.gif" width="600"> </ul>
 
 ### RL Community Detection
 <ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. <a href="https://github.com/willarliss/RL-Community-Detection" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
@@ -78,6 +76,5 @@
 Email: warliss[at]gwu.edu
 
 [LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
-
 
 
