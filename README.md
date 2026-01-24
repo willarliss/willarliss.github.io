@@ -29,7 +29,7 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 ### IRLS Stochastic Block Model
 <ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. <a href="https://github.com/willarliss/IRLS-SBM" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
 
-<img src="/images/sbm_animation.gif" width="450">
+<img src="/images/sbm_animation.gif" width="500">
 
 ### RL Community Detection
 <ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. <a href="https://github.com/willarliss/RL-Community-Detection" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
