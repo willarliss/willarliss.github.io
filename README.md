@@ -16,7 +16,7 @@
 <div style="clear:both;"></div> -->
 
 <p>
-  <img src="/images/headshot.png" alt="Headshot" style="float:left; margin:0 1rem 0 0; width:150px; border:none; display:block;" />
+  <img src="/images/headshot.png" alt="Headshot" style="float:left; margin:0 1rem 0 0; width:150px; border:none; display:block;" >
   Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series.
 </p>
 
