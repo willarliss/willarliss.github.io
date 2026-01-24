@@ -9,9 +9,9 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 
 # Education
 
-- George Washington University, Statistics, M.S., 2024-2025
-- George Washington University, Applied Economics, M.S., 2022-2023
-- University of Vermont, Economics, B.A., 2016-2020
+- George Washington University, M.S., Statistics, 2024-2025
+- George Washington University, M.S., Applied Economics, 2022-2023
+- University of Vermont, B.A., Economics, 2016-2020
 
 # Papers
 
@@ -69,5 +69,6 @@ Applied machine learning researcher in the federal contracting industry. Part-ti
 Email: warliss[at]gwu.edu
 
 [LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
+
 
 
