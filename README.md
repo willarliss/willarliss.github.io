@@ -9,7 +9,8 @@
 			<img src="/images/headshot1.png" alt="Headshot" width="150" style="display:block; border:none;" />
 		</td>
 		<td style="vertical-align:top; border:none; background:transparent;">
-			PhD student and applied machine learning researcher in the federal contracting industry. Interested in statistical and machine learning on graph-structured data.
+			Applied machine learning researcher in the federal contracting industry and PhD student at George Washington University. Interested in statistical and machine learning on graph-structured data.
+			<!-- PhD student and applied machine learning researcher in the federal contracting industry. Interested in statistical and machine learning on graph-structured data. -->
 		</td>
 	</tr>
 </table>
