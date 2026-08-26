@@ -9,15 +9,14 @@
 			<img src="/images/headshot1.png" alt="Headshot" width="150" style="display:block; border:none;" />
 		</td>
 		<td style="vertical-align:top; border:none; background:transparent;">
-			Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series.
+			PhD student and applied machine learning researcher in the federal contracting industry. Interested in statistical and machine learning on graph-structured data.
 		</td>
 	</tr>
 </table>
 
-<!-- Applied machine learning researcher in the federal contracting industry. Part-time graduate student. Interested in machine learning on graph-structured data and time series. -->
-
 # Education
 
+- George Washington University, Ph.D., Statistics, 2026-Present
 - George Washington University, M.S., Statistics, 2024-2025
 - George Washington University, M.S., Applied Economics, 2022-2023
 - University of Vermont, B.A., Economics, 2016-2020
