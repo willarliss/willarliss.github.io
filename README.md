@@ -25,15 +25,15 @@
 # Papers
 
 ### Conference
- - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *The Fourth Learning on Graphs Conference (LOG)*, 2025. <a href="https://openreview.net/forum?id=T1vdfm1THf" target="_blank" rel="noopener noreferrer">[Paper]</a> <a href="https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s" target="_blank" rel="noopener noreferrer">[Presentation]</a>
- - William Arliss, Andrew B. Godbehere, and Graham Mueller. "Using hypervectors for efficient anomaly detection in graph streams." In *2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)*, 2024. <a href="https://ieeexplore.ieee.org/document/10722819" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *The Fourth Learning on Graphs Conference (LOG)*, 2025. [Paper](https://openreview.net/forum?id=T1vdfm1THf){:target="_blank"} [Presentation](https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s){:target="_blank"}
+ - William Arliss, Andrew B. Godbehere, and Graham Mueller. "Using hypervectors for efficient anomaly detection in graph streams." In *2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)*, 2024. [Paper](https://ieeexplore.ieee.org/document/10722819){:target="_blank"}
 
 ### Workshop
- - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI)*, 2025. <a href="https://openreview.net/forum?id=5ehtJ1wkZa" target="_blank" rel="noopener noreferrer">[Paper]</a>
- - William Arliss. "Improving email filtering systems: A graph neural network approach." In *The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber)*, 2023. <a href="https://ai4cyber-kdd.com/KDD-AISec_files/ai4cyber-arliss-final.pdf" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *Machine Learning on Graphs in the Era of Generative Artificial Intelligence (MLoG-GenAI)*, 2025. [Paper](https://openreview.net/forum?id=5ehtJ1wkZa){:target="_blank"}
+ - William Arliss. "Improving email filtering systems: A graph neural network approach." In *The 3rd Workshop on Artificial Intelligence-Enabled Cybersecurity Analytics (AI4Cyber)*, 2023. [Paper](https://ai4cyber-kdd.com/KDD-AISec_files/ai4cyber-arliss-final.pdf){:target="_blank"}
 
 ### Journal
- - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. "Descriptor: Firewall attack detections and extractions (fade)." In *IEEE Data Descriptions*, 2025. <a href="https://ieeexplore.ieee.org/document/11011666" target="_blank" rel="noopener noreferrer">[Paper]</a>
+ - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. "Descriptor: Firewall attack detections and extractions (fade)." In *IEEE Data Descriptions*, 2025. [Paper](https://ieeexplore.ieee.org/document/11011666){:target="_blank"}
 
 # Personal Projects
 
@@ -73,12 +73,5 @@
 # Links
 
 <!-- Email: [warliss@gwu.edu](mailto:warliss@gwu.edu) -->
-Email: warliss[at]gwu.edu
-
-<!--
-[LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
--->
-<!--
-<a href="https://www.linkedin.com/in/william-arliss/" target="_blank" rel="noopener noreferrer">[LinkedIn]</a> | <a href="https://github.com/willarliss/" target="_blank" rel="noopener noreferrer">[GitHub]</a> | <a href="https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao/">[Scholar]</a> | <a href="https://willarliss.github.io/">[Website]</a>
--->
+Email: warliss[at]gwu.edu <br>
 [LinkedIn](https://www.linkedin.com/in/william-arliss/){:target="_blank"} | [GitHub](https://github.com/willarliss){:target="_blank"} | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao){:target="_blank"} | [Website](https://willarliss.github.io/){:target="_blank"}
