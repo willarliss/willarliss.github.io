@@ -35,6 +35,8 @@
 ### Journal
  - Gavin Black, Kassandra Fronczyk, William Arliss, and Robert Allen. "Descriptor: Firewall attack detections and extractions (fade)." In *IEEE Data Descriptions*, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11011666){:target="_blank"}
 
+<img src="/images/graph_snapshot_anom.png" width="650"> </ul>
+
 # Personal Projects
 
 ### IRLS Stochastic Block Model
