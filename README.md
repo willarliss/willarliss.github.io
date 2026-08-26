@@ -75,6 +75,7 @@
 <!-- Email: [warliss@gwu.edu](mailto:warliss@gwu.edu) -->
 Email: warliss[at]gwu.edu
 
+<!--
 [LinkedIn](https://www.linkedin.com/in/william-arliss/) | [GitHub](https://github.com/willarliss) | [Scholar](https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao) | [Website](https://willarliss.github.io/)
-
-
+-->
+<a href="https://www.linkedin.com/in/william-arliss/" target="_blank" rel="noopener noreferrer">[LinkedIn]</a> | <a href="https://github.com/willarliss/" target="_blank" rel="noopener noreferrer">[GitHub]</a> | <a href="https://scholar.google.com/citations?user=5to3KDIAAAAJ&hl=en&oi=ao/">[Scholar]</a> | <a href="https://willarliss.github.io/">[Website]</a>
