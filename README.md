@@ -38,32 +38,32 @@
 # Personal Projects
 
 ### IRLS Stochastic Block Model
-<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. [[Link]](https://github.com/willarliss/IRLS-SBM){:target="_blank"} <br> <img src="/images/sbm_animation.gif" width="600"> </ul>
+<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. <a href="https://github.com/willarliss/IRLS-SBM" target="_blank" rel="noopener noreferrer">[Code]</a> <br> <img src="/images/sbm_animation.gif" width="600"> </ul>
 
 ### RL Community Detection
-<ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. [[Link]](https://github.com/willarliss/RL-Community-Detection){:target="_blank"} </ul>
+<ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. <a href="https://github.com/willarliss/RL-Community-Detection" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 
 ### Recursive Iteratively Reweighted Least Squares
 
-<ul> An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS might converge to IRLS. [[Link]](https://github.com/willarliss/RIRLS){:target="_blank"} </ul>
+<ul> An algorithm to recursively estimate (multinomial) logistic regression coefficients with online/streaming data. The algorithm, referred to as RIRLS, integrates Recursive Least Squares (RLS) and Iteratively Reweighted Least Squares (IRLS) methods. Preliminary experiments suggest that RIRLS might converge to IRLS. <a href="https://github.com/willarliss/RIRLS" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 
 ### Stock Trading RL Agent
 
-<ul> A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. [[Link]](https://github.com/willarliss/Trade-Bot){:target="_blank"} </ul>
+<ul> A custom stock trading backtesting environment and Deep Q-Network (DQN). The DQN agent attempts to profitably manage a small stock portfolio by simulating buy/sell actions. Profitability is achieved through a buy-and-hold strategy. <a href="https://github.com/willarliss/Trade-Bot" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 
 ### Markov Chain Text Generator
 
-<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. [[Link]](https://github.com/willarliss/MC-Generate){:target="_blank"} <br> <img src="/images/tempest.png" width="300"> </ul>
+<ul> An exploration of simple text graphs where each document in a corpus is treated as a Markov chain. Random walks across the text graphs are useful for synethetic oversampling. Functionality is explored for document generation, classification, and clustering. <a href="https://github.com/willarliss/MC-Generate" target="_blank" rel="noopener noreferrer">[Code]</a> <br> <img src="/images/tempest.png" width="300"> </ul>
 
 <!--
 ### General Loss Framework
-<ul> A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. [[Link]](https://github.com/willarliss/GeneralLoss){:target="_blank"} </ul>
+<ul> A package that supports experimentation with custom loss functions for scikit-learn-style estimators. Users can create estimator with a user-defined loss function and link function. The scipy minimization library is used for optimization of the loss. The estimator is compatible with scikit-learn (v 1.0.2) functionality. <a href="https://github.com/willarliss/GeneralLoss" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 ### Markov Decision Process Tic-Tac-Toe
-<ul> A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. [[Link]](https://github.com/willarliss/TicTacToe-Learning){:target="_blank"} </ul>
+<ul> A simple tic-tac-toe reinforcement learning environment. Tic-tac-toe is framed as a Markov decision process, allowing an agent to interact with the board. The agent maintains a dictionary of board states, actions, and outcomes and learns the winning policy through self-play. <a href="https://github.com/willarliss/TicTacToe-Learning" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 ### Filtering GAM
-<ul> Generalized additive model for time series filtering description. [[Link]](https://github.com/willarliss/F-GAM){:target="_blank"} </ul>
+<ul> Generalized additive model for time series filtering description. <a href="https://github.com/willarliss/F-GAM" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 ### Anchoring Vector Machine
-<ul> Anchoring vector machine for classification. [[Link]](https://github.com/willarliss?tab=repositories){:target="_blank"} </ul>
+<ul> Anchoring vector machine for classification. <a href="https://github.com/willarliss?tab=repositories" target="_blank" rel="noopener noreferrer">[Code]</a> </ul>
 -->
 
 ---
