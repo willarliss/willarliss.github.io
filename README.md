@@ -25,7 +25,7 @@
 # Papers
 
 ### Conference
- - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *The Fourth Learning on Graphs Conference (LOG)*, 2025. [Paper](https://openreview.net/forum?id=T1vdfm1THf){:target="_blank"} [Presentation](https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s){:target="_blank"}
+ - William Arliss and W. Graham Mueller. "Differentiable community detection with graph neural networks and stochastic block models." In *The Fourth Learning on Graphs Conference (LOG)*, 2025. [[Paper]](https://openreview.net/forum?id=T1vdfm1THf){:target="_blank"} [[Presentation]](https://www.youtube.com/watch?v=nDSIDwQBrok&list=PL2iNJC54likpWAOaDLT6mHryMfvYDbBt1&index=6&t=2200s){:target="_blank"}
  - William Arliss, Andrew B. Godbehere, and Graham Mueller. "Using hypervectors for efficient anomaly detection in graph streams." In *2024 IEEE 11th International Conference on Data Science and Advanced Analytics (DSAA)*, 2024. [Paper](https://ieeexplore.ieee.org/document/10722819){:target="_blank"}
 
 ### Workshop
@@ -38,10 +38,10 @@
 # Personal Projects
 
 ### IRLS Stochastic Block Model
-<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. <a href="https://github.com/willarliss/IRLS-SBM" target="_blank" rel="noopener noreferrer">[Link]</a> <br> <img src="/images/sbm_animation.gif" width="600"> </ul>
+<ul> This project explores a simple technique for estimating the parameters of a Stochastic Block Model (SBM). Approximate Fisher scoring updates (similar to IRLS) are applied to a latent variable representation of the node partition. [Link](https://github.com/willarliss/IRLS-SBM){:target="_blank"} <br> <img src="/images/sbm_animation.gif" width="600"> </ul>
 
 ### RL Community Detection
-<ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. <a href="https://github.com/willarliss/RL-Community-Detection" target="_blank" rel="noopener noreferrer">[Link]</a> </ul>
+<ul> This project applies reinforcement learning to the task of modularity maximization for community detection on graphs. The RL environment can be wrapped around an arbitrary graph, allowing an agent to iteratively update the community assignments of the graph nodes in order to maximize a modularity-based reward signal. [Link](https://github.com/willarliss/RL-Community-Detection){:target="_blank"} </ul>
 
 ### Recursive Iteratively Reweighted Least Squares
 
